@@ -3,8 +3,8 @@
 This repository contains my solutions for the assignments of [CS231n course(2021 Spring)](https://cs231n.github.io/) of Stanford university.
 
 # Assignment 1
-  Q1: k-Nearest Neighbor classifier
-  Q2: Training a Support Vector Machine
+  Q1: k-Nearest Neighbor classifier\n
+  Q2: Training a Support Vector Machine\n
   Q3: Implement a Softmax classifier
   Q4: Two-Layer Neural Network
   Q5: Higher Level Representations: Image Features
