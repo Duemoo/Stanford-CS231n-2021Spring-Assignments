@@ -14,7 +14,7 @@ This repository contains my solutions for the assignments of [CS231n course(2021
   - Q2: Batch Normalization
   - Q3: Dropout
   - Q4: Convolutional Neural Networks
-  - Q5: PyTorch/TensorFlow on CIFAR-10        *For Q5, I implemented Pytorch.ipynb.*
+  - Q5: PyTorch/TensorFlow on CIFAR-10        *(For Q5, I implemented Pytorch.ipynb.)*
 
 - Assignment 3
   - Q1: Image Captioning with Vanilla RNNs
