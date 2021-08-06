@@ -1,4 +1,4 @@
-# Stanford CS231n 2021Spring Assignments
+# Solutions for Stanford CS231n Assignments (2021Spring)
 
 This repository contains my solutions for the assignments of [CS231n course(2021 Spring)](https://cs231n.github.io/) of Stanford university.
 
